@@ -14,7 +14,7 @@
 	<name>blog-app-api-1</name>
 	<description>This is Frist Project create useing eclieps IDE</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>22</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
