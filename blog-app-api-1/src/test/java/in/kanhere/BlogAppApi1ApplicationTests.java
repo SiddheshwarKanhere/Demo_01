@@ -1,0 +1,13 @@
+package in.kanhere;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BlogAppApi1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
