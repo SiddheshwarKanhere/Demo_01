@@ -39,5 +39,23 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>Kanhere Patil</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+	
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>Siddheshwar Kanhere</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
 
 </project>
