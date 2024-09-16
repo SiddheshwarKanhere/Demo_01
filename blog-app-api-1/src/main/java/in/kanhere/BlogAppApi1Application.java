@@ -10,4 +10,7 @@ public class BlogAppApi1Application {
 		SpringApplication.run(BlogAppApi1Application.class, args);
 	}
 
+
+      private String lastName = "Kanhere";
+
 }
